@@ -61,8 +61,8 @@ ul.menu li a {
 
 
 footer {
-    min-height      : 200px;
-    background-color: black;
+    min-height      : 160px;
+    background-color: blue;
     color           : #fff;
     padding         : 3em;
     text-align      : center;
@@ -75,7 +75,7 @@ footer a:visited {
 
 header {
     min-height      : 130px;
-    background-color: black;
+    background-color: palevioletred;
     color           : #fff;
     padding         : 2em 2em .2em;
     text-align      : center;
